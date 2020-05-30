@@ -1,0 +1,2 @@
+to run this crawler type whilst the working directory must be the same as the one containing the spider
+scrapy -t json *spidername* -o *filename.json*
